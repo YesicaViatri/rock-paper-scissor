@@ -1,0 +1,3 @@
+empate. 
+Ganó la computadora. 
+Ganó el usuario. 
